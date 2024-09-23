@@ -24,5 +24,8 @@
   },
   "scripts": {
     "test": "vendor/bin/pest"
+  },
+  "require": {
+    "markrogoyski/math-php": "^2.10"
   }
 }
